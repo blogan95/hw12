@@ -1,0 +1,6 @@
+C:\Users\poiso\Desktop\HW12\bin\Release\ch4.exe.config
+C:\Users\poiso\Desktop\HW12\bin\Release\ch4.exe
+C:\Users\poiso\Desktop\HW12\bin\Release\ch4.pdb
+C:\Users\poiso\Desktop\HW12\obj\Release\HW12.Console.csproj.CoreCompileInputs.cache
+C:\Users\poiso\Desktop\HW12\obj\Release\ch4.exe
+C:\Users\poiso\Desktop\HW12\obj\Release\ch4.pdb
